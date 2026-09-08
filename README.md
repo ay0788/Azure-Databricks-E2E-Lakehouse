@@ -7,7 +7,7 @@ The project ingests CRM and ERP source data, applies a **Medallion Architecture 
 ## Architecture
 
 <p align="center">
-  <img src="[docs/project-overview.png](https://github.com/ay0788/Azure-Databricks-E2E-Lakehouse/blob/main/E2E_Project.png)" alt="Azure Databricks End-to-End Lakehouse Architecture" width="100%">
+  <img src="[[docs/project-overview.png](https://github.com/ay0788/Azure-Databricks-E2E-Lakehouse/blob/main/E2E_Project.png)](https://github.com/ay0788/Azure-Databricks-E2E-Lakehouse/blob/main/E2E_Project.png)" alt="Azure Databricks End-to-End Lakehouse Architecture" width="100%">
 </p>
 
 
