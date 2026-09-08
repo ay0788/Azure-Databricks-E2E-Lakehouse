@@ -62,16 +62,7 @@ Business-ready star schema:
 - Databricks AI/BI
 - Git & GitHub
 
-## Repository Structure
 
-Azure-Databricks-E2E-Lakehouse/
-├── notebooks/
-│   ├── 01_bronze/
-│   ├── 02_silver/
-│   ├── 03_gold/
-│   └── 04_analytics/
-├── dashboard/
-└── README.md
 
 ## Key Concepts
 
