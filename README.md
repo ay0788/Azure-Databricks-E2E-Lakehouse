@@ -6,19 +6,11 @@ The project ingests CRM and ERP source data, applies a **Medallion Architecture 
 
 ## Architecture
 
-CRM + ERP CSV Files  
-↓  
-Unity Catalog Volume  
-↓  
-**Bronze** — Raw Delta Tables  
-↓  
-**Silver** — Cleaned, Standardized, Validated  
-↓  
-**Gold** — `dim_customer`, `dim_product`, `fact_sales`  
-↓  
-Databricks SQL  
-↓  
-AI/BI Dashboard
+<p align="center">
+  <img src="[docs/project-overview.png](https://github.com/ay0788/Azure-Databricks-E2E-Lakehouse/blob/main/E2E_Project.png)" alt="Azure Databricks End-to-End Lakehouse Architecture" width="100%">
+</p>
+
+
 
 ## Data Layers
 
