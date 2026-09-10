@@ -4,8 +4,7 @@ End-to-end data engineering project built with **Azure Databricks, PySpark, Delt
 
 The project ingests CRM and ERP source data, applies a **Medallion Architecture (Bronze / Silver / Gold)**, builds a **star schema**, and delivers business insights through a Databricks **AI/BI Dashboard**.
 
-## Architecture
-
+## Overview
 <p align="center">
   <img src="./E2E_Project.png" alt="Azure Databricks End-to-End Lakehouse Architecture" width="100%">
 </p>
